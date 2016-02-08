@@ -1,0 +1,28 @@
+name: Waterline Productions
+favicon: null
+layout_spectrum: 0.9443486155942082
+typography_spectrum: 0.03434380027465522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6169885580893606
+  lightness: 0.9732343836221844
+  saturation: 0.8361649257130921
+  rhythmicContrast: 0.2608277320396155
+purpose: []
